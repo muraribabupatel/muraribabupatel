@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Babu  Murari Babu Patel</h1>
+<h1 align="center">Hey 👋,Murari Babu Patel</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muraribabupatel&label=Profile%20views&color=0e75b6&style=flat" alt="muraribabupatel" /> </p>
